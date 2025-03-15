@@ -1,1 +1,1 @@
-# AI-task1
+# AI_course
